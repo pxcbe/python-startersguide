@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 
 #Telling Linux it should execute this as a Python script!
