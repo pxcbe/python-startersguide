@@ -26,7 +26,7 @@ chmod +x HelloWorld.py HelloWorld_shebang.py
 ```
 and 
 ```
-./HelloWorld_SheBang.py
+./HelloWorld_shebang.py
 ```
 You'll find that HelloWorld.py doesn't work and HelloWorld_SheBang.py does. Why is this?
 On the first line of the HelloWorld_SheBang.py there is an extra statement, this statement is called a Shebang and this tells the operating system it is a python script. It performs the same function as the "python3" statement needed for the HelloWorld.py script
