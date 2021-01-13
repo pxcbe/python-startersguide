@@ -1,3 +1,5 @@
-FROM python:3.6
+FROM pxcbe/python-opcua
 
-RUN pip3 install opcua
+COPY ./app /app
+
+CMD python3 /app/app.py
