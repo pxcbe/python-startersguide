@@ -15,7 +15,11 @@ Can you see the message promted in the shell?
 You can do the same with HelloWorld_SheBang.py
 
 ## Shebang (shabang)
-Try running:
+Try running the python script. (We make the file executable with the first command)
+
+```
+chmod +x HelloWorld.py HelloWorld_shebang.py
+```
 
 ```
 ./HelloWorld.py
