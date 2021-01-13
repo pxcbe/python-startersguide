@@ -10,7 +10,7 @@ This guide is meant to learn you the basics for Python on PLCnext. We'll learn h
 
 ## Setup script
 
-We'll use a few different compontents on the controller, you can use installation scripts in this folder to set up pip3 (bootstrapped with python), balena-engine en download the different containers. To prepare for a course, just run the "setupall.sh" to limit wait time during the course.
+We'll use a few different compontents on the controller, you can use installation scripts in this folder to set up pip3 (bootstrapped with python), balena-engine en download the different containers.
 
 ## Examples 
 
