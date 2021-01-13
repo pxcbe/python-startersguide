@@ -23,3 +23,8 @@ cd Docker_GettingStarted
 chmod +x setup.sh
 ./setup.sh
 ```
+# Pull the pxcbe python image
+
+```
+balena-engine pull pxcbe/python-opcua
+```

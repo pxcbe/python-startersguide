@@ -19,3 +19,12 @@ To get you started you can follow the examples scripts. The instruction can be f
 ## PLCnext Engineer
 
 The PLCnext Engineer project we use in this guide as a demo-project
+
+
+# The first steps
+
+Start by opening a shell session to your controller and clone this repositry to your controller. Then navigate to the example folder and start trying out the examples!
+
+```
+git clone https://github.com/pxcbe/python-startersguide.git
+```
