@@ -10,7 +10,8 @@ This guide is meant to teach you the basics of Python on PLCnext. We'll learn ho
 
 ## Setup script
 
-We'll use a few different components on the controller, you can use installation scripts in this folder to set up pip3 (bootstrapped with python), balena-engine and download the different containers. To prepare for a course, just run the "setupall.sh" to limit wait time during the course.
+
+We'll use a few different compontents on the controller, you can use installation scripts in this folder to set up pip3 (bootstrapped with python), balena-engine en download the different containers.
 
 ## Examples 
 
@@ -19,3 +20,12 @@ To get you started you can follow the example scripts. The instructions can be f
 ## PLCnext Engineer
 
 The PLCnext Engineer project we use in this guide as a demo-project
+
+
+# The first steps
+
+Start by opening a shell session to your controller and clone this repositry to your controller. Then navigate to the example folder and start trying out the examples!
+
+```
+git clone https://github.com/pxcbe/python-startersguide.git
+```
