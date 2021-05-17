@@ -22,7 +22,7 @@ https://github.com/PLCnext/Docker_GettingStarted
 The Dockerfie will contain the recepy for our image. 
 
 ```
-balena-engine build . - myimage
+balena-engine build . -t myimage
 ```
 Run the container.
 
