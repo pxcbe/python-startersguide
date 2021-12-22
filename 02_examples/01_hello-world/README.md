@@ -1,4 +1,4 @@
-# Pyhton and the interpreter
+# Python and the interpreter
 
 Python does not get compiled, or at least not in the traditonal sense. Most of the time you won't be transfering binaries to the PLC but a script, a .py file to the controller.
 In this direcorty you can find two python scripts. HelloWold.py and HelloWorld_Shebang.py. They share the same code but will differ in how you can execute or run the scripts.
